@@ -923,7 +923,7 @@ footer ul{
 
   .share-img{
     margin-top: 100px;
-    background-image: url("/img/pob/share.jpg");
+    background-image: url("./img/pob/share.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
